@@ -12,7 +12,7 @@
 - 🎓 Studying Information Technology at UPV Victoria.
 - 🌱 Currently focused on Python development, Cloud Computing, and Microservice-based Architectures.
 - ✍️ In my free time, I enjoy listening to music, exercising, playing video games, and photography.
-
+ 
 <h3>Languajes</h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">

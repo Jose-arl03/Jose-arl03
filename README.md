@@ -9,7 +9,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9vYnQ5Zjl0MHppZGFlNGtpZmZmcjRmN2V4ZGZpZmFjOTVtM2gzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/68ZQM9Qx0EQg0wDdL9/giphy.gif" width="55px">&nbsp;**About me**
 - 💡 Passionate about exploring new technologies and building efficient software solutions and quick hacks.
-- 🎓 Studying Information Technology at UPV Victoria.
+- 🎓 Information Technology graduate — UPV Victoria.
 - 🌱 Currently focused on Python development, Cloud Computing, and Microservice-based Architectures.
 - ✍️ In my free time, I enjoy listening to music, exercising, playing video games, and photography.
  

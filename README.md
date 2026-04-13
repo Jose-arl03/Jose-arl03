@@ -29,7 +29,7 @@
 <br>
 
   <div style="float: right; width: 55%;">
-    <h3>💳 Resumen del Perfil de GitHub</h3>
+    <h3💳 GitHub Profile Summary</h3>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-arl03&theme=github_dark" alt="Tarjeta de resumen de mi perfil de GitHub" width="100%" />
   </div>
 
